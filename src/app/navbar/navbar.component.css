@@ -1,0 +1,16 @@
+.nav-link{
+    color: #000 !important;
+    font-size: 0.8rem !important;
+    font-weight: 400 !important;
+    font-family: "Inter", sans-serif !important; 
+    padding: 0 25px !important;
+    transition: 450ms;
+}
+.nav-link:hover {
+    color: red !important;
+}
+.navbar{
+    margin:4% 8% !important;
+    border-radius: 50px !important;
+    padding: 10px 20px !important;
+}
